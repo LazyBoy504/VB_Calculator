@@ -1,0 +1,24 @@
+C:\Users\admin\AppData\Local\Temporary Projects\formmegaClalc\bin\Debug\formmegaClalc.exe.config
+C:\Users\admin\AppData\Local\Temporary Projects\formmegaClalc\bin\Debug\formmegaClalc.exe
+C:\Users\admin\AppData\Local\Temporary Projects\formmegaClalc\bin\Debug\formmegaClalc.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\formmegaClalc\bin\Debug\formmegaClalc.xml
+C:\Users\admin\AppData\Local\Temporary Projects\formmegaClalc\obj\Debug\formmegaClalc.Form1.resources
+C:\Users\admin\AppData\Local\Temporary Projects\formmegaClalc\obj\Debug\formmegaClalc.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\formmegaClalc\obj\Debug\formmegaClalc.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\formmegaClalc\obj\Debug\formmegaClalc.exe
+C:\Users\admin\AppData\Local\Temporary Projects\formmegaClalc\obj\Debug\formmegaClalc.xml
+C:\Users\admin\AppData\Local\Temporary Projects\formmegaClalc\obj\Debug\formmegaClalc.pdb
+D:\Educational\College Study\VP Codes\formmegaClalc\bin\Debug\formmegaClalc.exe.config
+D:\Educational\College Study\VP Codes\formmegaClalc\obj\Debug\formmegaClalc.exe
+D:\Educational\College Study\VP Codes\formmegaClalc\obj\Debug\formmegaClalc.xml
+D:\Educational\College Study\VP Codes\formmegaClalc\obj\Debug\formmegaClalc.pdb
+D:\Educational\College Study\VP Codes\formmegaClalc\bin\Debug\formmegaClalc.exe
+D:\Educational\College Study\VP Codes\formmegaClalc\bin\Debug\formmegaClalc.pdb
+D:\Educational\College Study\VP Codes\formmegaClalc\bin\Debug\formmegaClalc.xml
+D:\Educational\College Study\VP Codes\formmegaClalc\obj\Debug\formmegaClalc.Form1.resources
+D:\Educational\College Study\VP Codes\formmegaClalc\obj\Debug\formmegaClalc.Resources.resources
+D:\Educational\College Study\VP Codes\formmegaClalc\obj\Debug\formmegaClalc.vbproj.GenerateResource.Cache
+D:\#Educational\College Study\VP Codes\formmegaClalc\bin\Debug\formmegaClalc.exe.config
+D:\#Educational\College Study\VP Codes\formmegaClalc\obj\Debug\formmegaClalc.exe
+D:\#Educational\College Study\VP Codes\formmegaClalc\obj\Debug\formmegaClalc.xml
+D:\#Educational\College Study\VP Codes\formmegaClalc\obj\Debug\formmegaClalc.pdb
